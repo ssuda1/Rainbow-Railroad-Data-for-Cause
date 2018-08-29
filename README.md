@@ -46,7 +46,7 @@ Relationship Recognition: 2nd Parent Adoption +2
 Under this scoring system,
 
 Syrian score is : -16
-Egypt: -8 (after data correction)
+Egypt: -8
 Japan: 4
 Canada: 13
 Denmark: 17
