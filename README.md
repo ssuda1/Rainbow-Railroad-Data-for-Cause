@@ -11,7 +11,7 @@ This is the link to the final vizualization (by Tableau). https://public.tableau
 
 
 ********************
-Sorering system details, in case you are interested:
+##_Sorering system details, in case you are interested:_
 
 Existence of protection such as rights of civil union is +1, existence of criminal punishment is -1 multiplied by severity of sentences (1 for "up to 2 years", 10 for "death sentence", for example) if there was any arrest in past 3 years. After giving different weights to different protections or punishments, I would aggregate those points for each country to get the final score. Therefore,
 
